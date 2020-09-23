@@ -6,7 +6,7 @@ namespace GitIntro01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ahoj Svete!");
         }
     }
 }
